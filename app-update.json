@@ -1,7 +1,7 @@
 {
   "versionName": "1.7.0",
-  "versionCode": 2,
+  "versionCode": 1,
   "apkUrl": "https://github.com/Roma-jpg/testapp_updater/releases/download/android/MAX_bolvanka_v1.7.0.apk",
-  "changelog": "Test2",
+  "changelog": "Initial Release v.1.7.0",
   "mandatory": false
 }
